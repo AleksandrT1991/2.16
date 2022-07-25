@@ -75,6 +75,6 @@ public interface IntegerList {
     // Создать новый массив
     // из строк в списке
     // и вернуть его.
-    String[] toArray();
+    Integer[] toArray();
 }
 
